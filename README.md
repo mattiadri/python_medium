@@ -1,2 +1,2 @@
 # python_medium
-basically is numpy and pandas
+The course consists of two parts, .csv files are needed for the examples/exercises
